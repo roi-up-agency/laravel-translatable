@@ -14,6 +14,10 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Miguel Gracia Martín",
+            "email": "miguelgraciamartin@gmail.com"
+	},
+        {
             "name": "Freek Van der Herten",
             "email": "freek@spatie.be",
             "homepage": "https://spatie.be",
